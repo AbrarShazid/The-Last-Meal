@@ -1,3 +1,3 @@
 # The Last Meal 
 
-### Its a basically a practice project for milestone 8 (react-router-7) for Programming hero web-development-level-1
+**This is a practice project for Milestone 8 (React Router v7) from the Programming Hero Web Development Level-1 course.**
